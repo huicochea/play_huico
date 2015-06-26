@@ -1,0 +1,1 @@
+<div class="errorMessage"><br /><br /><img src="images/album-defaut.png"><br /><br />Sorry, your query does not match any album. <br />Please try again with another keywords.<br />&nbsp;<br /></div> 

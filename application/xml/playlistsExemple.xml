@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<albumList>
+	<album>
+		<albumID>1</albumID>
+		<albumTitle>Mylo Xylo</albumTitle>
+		<albumArtist>Coldplay</albumArtist>
+		<albumCover>/data/Coldplay/Coldplay%20-%20Mylo%20Xyloto%20(2011)/AlbumArtSmall.jpg</albumCover>
+		<albumTracks>
+			<track>
+				<trackID>1</trackID>
+				<trackFile>/data/Coldplay/03 Paradise.m4a</trackFile>
+				<trackTitle>Paradise</trackTitle>
+				<trackArtist>Coldplay</trackArtist>
+				<trackLengh>3:25</trackLengh>
+				<trackFileSize>3.24Mb</trackFileSize>	
+			</track>
+		</albumTracks>
+	</album>
+</albumList>
