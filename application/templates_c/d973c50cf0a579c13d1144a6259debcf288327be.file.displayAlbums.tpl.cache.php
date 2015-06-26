@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'version' => 'Smarty-3.1.12',
   'unifunc' => 'content_5589dffbdfece7_86746829',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5589dffbdfece7_86746829')) {function content_5589dffbdfece7_86746829($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'C:\\AppServ\\www\\play_huico\\application\\libs\\plugins\\modifier.truncate.php';
+<?php if ($_valid && !is_callable('content_5589dffbdfece7_86746829')) {function content_5589dffbdfece7_86746829($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'C:\\AppServ\\www\\play_huico\\trunk\\application\\libs\\plugins\\modifier.truncate.php';
 ?><?php if (isset($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1'])) unset($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']);
 $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['name'] = 'sec1';
 $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['loop'] = is_array($_loop=$_smarty_tpl->tpl_vars['arrayAlbums']->value) ? count($_loop) : max(0, (int)$_loop); unset($_loop);
