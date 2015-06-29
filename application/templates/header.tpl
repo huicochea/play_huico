@@ -8,6 +8,7 @@
 <script src="js/jquery-1.8.2.js"></script>
 <script src="js/scriptAlbums.js"></script>
 <script src="js/scriptPlayer.js"></script>
+<script src="js/funciones.js"></script>
 <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="js/jplayer.playlist.min.js"></script>
 <link href="css/style.css" rel="stylesheet" type="text/css" />

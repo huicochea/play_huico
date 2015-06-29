@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 13:04:23
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 15:31:05
          compiled from ".\templates\displayPlaylist.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:314275589b8ad40c644-10092585%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e3a1f711d6a8210000636977308e6ef5c41ececd' => 
     array (
       0 => '.\\templates\\displayPlaylist.tpl',
-      1 => 1435601059,
+      1 => 1435609833,
       2 => 'file',
     ),
   ),
@@ -95,9 +95,11 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['last']       = ($_sm
 						<!-- <?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFileSize'];?>
  -->
 				</td>
-				<td><a href="javascript:add_track(js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
-)" onclick="javascript:afficher_cacher('jp-playlist');" >
-					<img border="0" src="images/close_popin.png" title="Eliminar"></a></td><!-- Eliminar cancion-->
+				<td>
+					<a href="#" onclick="elimina(this)" name="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFile'];?>
+">
+					<img border="0" src="images/close_popin.png" title="Eliminar"></a>
+				</td><!-- Eliminar cancion-->
 				<td><a href="javascript:add_track(js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
 )" onclick="javascript:afficher_cacher('jp-playlist');" >
 					<img border="0" src="images/add.png" title="Agregar a lista de reproduccion"></a>

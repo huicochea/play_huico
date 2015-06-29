@@ -138,4 +138,1596 @@
     <albumTracksCount>16</albumTracksCount>
     <albumCover>images/disco.jpg</albumCover>
   </album>
+  <album>
+    <albumID>17</albumID>
+    <albumTitle>Oreja de Van gogh</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/Oreja de Van gogh/la oreja de van gogh   deseos de cosas imposibles.mp3</trackFile>
+        <trackTitle>la oreja de van gogh   deseos de cosas imposibles.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:09</trackLengh>
+        <trackFileSize>7.22 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/Oreja de Van gogh/La Oreja De Van Gogh   La Cancin Mas Bonita Del Mundo   La Playa.mp3</trackFile>
+        <trackTitle>La Oreja De Van Gogh   La Cancin Mas Bonita Del Mundo   La Playa.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:00</trackLengh>
+        <trackFileSize>5.50 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/Oreja de Van gogh/La Oreja de Van Gogh   Rosas.mp3</trackFile>
+        <trackTitle>La Oreja de Van Gogh   Rosas.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:52</trackLengh>
+        <trackFileSize>5.31 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/Oreja de Van gogh/La Oreja De Van Gogh  La Playa.mp3</trackFile>
+        <trackTitle>La Oreja De Van Gogh  La Playa.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:02</trackLengh>
+        <trackFileSize>5.55 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/Oreja de Van gogh/Pars   La Oreja de Van Gogh.mp3</trackFile>
+        <trackTitle>Pars   La Oreja de Van Gogh.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:45</trackLengh>
+        <trackFileSize>6.52 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>5</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+  <album>
+    <albumID>22</albumID>
+    <albumTitle>Rock nacional</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/Rock nacional/8 -desde mi cielo.mp3</trackFile>
+        <trackTitle>8 -desde mi cielo.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:06:21</trackLengh>
+        <trackFileSize>9.25 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/Rock nacional/el mago de oz-la costa del silencio.mp3</trackFile>
+        <trackTitle>el mago de oz-la costa del silencio.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:41</trackLengh>
+        <trackFileSize>4.29 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/Rock nacional/la leyenda del hada y el mago mago de oz175296.mp3</trackFile>
+        <trackTitle>la leyenda del hada y el mago mago de oz175296.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:09</trackLengh>
+        <trackFileSize>4.71 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/Rock nacional/la rosa de los vientos.mp3</trackFile>
+        <trackTitle>la rosa de los vientos.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:06:20</trackLengh>
+        <trackFileSize>8.70 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/Rock nacional/mago de oz - el cantar de la luna oscura.mp3</trackFile>
+        <trackTitle>mago de oz - el cantar de la luna oscura.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:23</trackLengh>
+        <trackFileSize>4.93 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>6</trackID>
+        <trackFile>musica/Rock nacional/mago de oz - fiesta pagana.mp3</trackFile>
+        <trackTitle>mago de oz - fiesta pagana.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:57</trackLengh>
+        <trackFileSize>4.53 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>7</trackID>
+        <trackFile>musica/Rock nacional/mago de oz - hasta que el cuerpo aguante.mp3</trackFile>
+        <trackTitle>mago de oz - hasta que el cuerpo aguante.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:33</trackLengh>
+        <trackFileSize>4.16 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>8</trackID>
+        <trackFile>musica/Rock nacional/mago de oz - molinos de viento.mp3</trackFile>
+        <trackTitle>mago de oz - molinos de viento.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:12</trackLengh>
+        <trackFileSize>3.84 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>9</trackID>
+        <trackFile>musica/Rock nacional/mago de oz y rata blanca - mujer amante.mp3</trackFile>
+        <trackTitle>mago de oz y rata blanca - mujer amante.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:06:24</trackLengh>
+        <trackFileSize>6.18 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>10</trackID>
+        <trackFile>musica/Rock nacional/&#xBA;&#xBA;&#xBA;&#xBA;&#xBA; Mago de Oz   Quizas si quizas no.mp3</trackFile>
+        <trackTitle>&#xBA;&#xBA;&#xBA;&#xBA;&#xBA; Mago de Oz   Quizas si quizas no.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:43</trackLengh>
+        <trackFileSize>10.80 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>10</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+  <album>
+    <albumID>32</albumID>
+    <albumTitle>romanticos por siempre</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/romanticos por siempre/CARI&#xD1;O-JUAN GABRIEL.mp3</trackFile>
+        <trackTitle>CARI&#xD1;O-JUAN GABRIEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:57</trackLengh>
+        <trackFileSize>6.74 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/romanticos por siempre/CHIQUITITA - ABBA.mp3</trackFile>
+        <trackTitle>CHIQUITITA - ABBA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:30</trackLengh>
+        <trackFileSize>5.04 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/romanticos por siempre/COMO TE EXTRA&#xD1;O.mp3</trackFile>
+        <trackTitle>COMO TE EXTRA&#xD1;O.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:06</trackLengh>
+        <trackFileSize>2.85 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/romanticos por siempre/con el viento a tu fabor-Camilo Sesto..mp3</trackFile>
+        <trackTitle>con el viento a tu fabor-Camilo Sesto..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:06</trackLengh>
+        <trackFileSize>2.83 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/romanticos por siempre/coraz&#xF3;n de papel- Diego Verdaguer-.mp3</trackFile>
+        <trackTitle>coraz&#xF3;n de papel- Diego Verdaguer-.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:44</trackLengh>
+        <trackFileSize>6.00 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>6</trackID>
+        <trackFile>musica/romanticos por siempre/CREO ESTAR SO&#xD1;ANDO.mp3</trackFile>
+        <trackTitle>CREO ESTAR SO&#xD1;ANDO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:50</trackLengh>
+        <trackFileSize>2.60 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>7</trackID>
+        <trackFile>musica/romanticos por siempre/DIEGO VERDAGUER EL COBARDE.mp3</trackFile>
+        <trackTitle>DIEGO VERDAGUER EL COBARDE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:16</trackLengh>
+        <trackFileSize>4.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>8</trackID>
+        <trackFile>musica/romanticos por siempre/d&#xE9;jame vib&#xED;r-Roc&#xED;o D&#xFA;rcal..mp3</trackFile>
+        <trackTitle>d&#xE9;jame vib&#xED;r-Roc&#xED;o D&#xFA;rcal..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:46</trackLengh>
+        <trackFileSize>2.59 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>9</trackID>
+        <trackFile>musica/romanticos por siempre/EL HO YO.mp3</trackFile>
+        <trackTitle>EL HO YO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:32</trackLengh>
+        <trackFileSize>3.23 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>10</trackID>
+        <trackFile>musica/romanticos por siempre/EL HOMBRE QUE SABE QUERER-ROBERTO CARLOS.mp3</trackFile>
+        <trackTitle>EL HOMBRE QUE SABE QUERER-ROBERTO CARLOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:20</trackLengh>
+        <trackFileSize>3.05 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>11</trackID>
+        <trackFile>musica/romanticos por siempre/EL VIENTO Y LA VRISA YTU RECUERDO.mp3</trackFile>
+        <trackTitle>EL VIENTO Y LA VRISA YTU RECUERDO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:55</trackLengh>
+        <trackFileSize>2.67 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>12</trackID>
+        <trackFile>musica/romanticos por siempre/Eleno - no son solo palabritas.mp3</trackFile>
+        <trackTitle>Eleno - no son solo palabritas.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:11</trackLengh>
+        <trackFileSize>3.83 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>13</trackID>
+        <trackFile>musica/romanticos por siempre/EN ESTA PRIMAVERA.mp3</trackFile>
+        <trackTitle>EN ESTA PRIMAVERA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:22</trackLengh>
+        <trackFileSize>2.32 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>14</trackID>
+        <trackFile>musica/romanticos por siempre/ERES TUMocedades..mp3</trackFile>
+        <trackTitle>ERES TUMocedades..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:57</trackLengh>
+        <trackFileSize>3.61 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>15</trackID>
+        <trackFile>musica/romanticos por siempre/FRENTE A FRENTE - JEANETTE.mp3</trackFile>
+        <trackTitle>FRENTE A FRENTE - JEANETTE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:19</trackLengh>
+        <trackFileSize>2.28 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>16</trackID>
+        <trackFile>musica/romanticos por siempre/FRIO DE AUSENCIA.mp3</trackFile>
+        <trackTitle>FRIO DE AUSENCIA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:16</trackLengh>
+        <trackFileSize>3.00 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>17</trackID>
+        <trackFile>musica/romanticos por siempre/gavil&#xE1;n o paloma-Joc&#xE9; Joc&#xE9;-.mp3</trackFile>
+        <trackTitle>gavil&#xE1;n o paloma-Joc&#xE9; Joc&#xE9;-.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:13</trackLengh>
+        <trackFileSize>3.85 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>18</trackID>
+        <trackFile>musica/romanticos por siempre/has nacido libre-Camilo Sesto..mp3</trackFile>
+        <trackTitle>has nacido libre-Camilo Sesto..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:35</trackLengh>
+        <trackFileSize>4.19 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>19</trackID>
+        <trackFile>musica/romanticos por siempre/he venido a pedirte perd&#xF3;n-Juan gabriel..mp3</trackFile>
+        <trackTitle>he venido a pedirte perd&#xF3;n-Juan gabriel..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:02</trackLengh>
+        <trackFileSize>3.46 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>20</trackID>
+        <trackFile>musica/romanticos por siempre/INSENSIBLE.mp3</trackFile>
+        <trackTitle>INSENSIBLE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:51</trackLengh>
+        <trackFileSize>1.96 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>21</trackID>
+        <trackFile>musica/romanticos por siempre/jam&#xE1;s-Camilo Sesto..mp3</trackFile>
+        <trackTitle>jam&#xE1;s-Camilo Sesto..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:17</trackLengh>
+        <trackFileSize>3.00 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>22</trackID>
+        <trackFile>musica/romanticos por siempre/JORGE MU&#xD1;IZ.mp3</trackFile>
+        <trackTitle>JORGE MU&#xD1;IZ.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:49</trackLengh>
+        <trackFileSize>2.63 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>23</trackID>
+        <trackFile>musica/romanticos por siempre/Juan Gabriel - Es mejor..mp3</trackFile>
+        <trackTitle>Juan Gabriel - Es mejor..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:57</trackLengh>
+        <trackFileSize>2.71 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>24</trackID>
+        <trackFile>musica/romanticos por siempre/LA GATA BAJO LA LLUVIA - Roc&#xED;o D&#xFA;rcal..mp3</trackFile>
+        <trackTitle>LA GATA BAJO LA LLUVIA - Roc&#xED;o D&#xFA;rcal..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:41</trackLengh>
+        <trackFileSize>3.37 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>25</trackID>
+        <trackFile>musica/romanticos por siempre/LA HISTORIA DE MI AMOR.mp3</trackFile>
+        <trackTitle>LA HISTORIA DE MI AMOR.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:45</trackLengh>
+        <trackFileSize>2.52 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>26</trackID>
+        <trackFile>musica/romanticos por siempre/LA HISTORIA DE TOMI.mp3</trackFile>
+        <trackTitle>LA HISTORIA DE TOMI.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:40</trackLengh>
+        <trackFileSize>2.44 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>27</trackID>
+        <trackFile>musica/romanticos por siempre/La ultima cancion (Paulo Sergio).mp3</trackFile>
+        <trackTitle>La ultima cancion (Paulo Sergio).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:30</trackLengh>
+        <trackFileSize>3.20 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>28</trackID>
+        <trackFile>musica/romanticos por siempre/LADY LAURA - ROBERTO CARLOS.mp3</trackFile>
+        <trackTitle>LADY LAURA - ROBERTO CARLOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:13</trackLengh>
+        <trackFileSize>3.86 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>29</trackID>
+        <trackFile>musica/romanticos por siempre/LAS SERESAS.mp3</trackFile>
+        <trackTitle>LAS SERESAS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:11</trackLengh>
+        <trackFileSize>2.91 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>30</trackID>
+        <trackFile>musica/romanticos por siempre/LEO DAN - SIEMPRE ESTOY PENSANDO EN ELLA.mp3</trackFile>
+        <trackTitle>LEO DAN - SIEMPRE ESTOY PENSANDO EN ELLA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:46</trackLengh>
+        <trackFileSize>3.45 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>31</trackID>
+        <trackFile>musica/romanticos por siempre/LEO DAN - TU LLEGASTE CUANDO MENOS LO ESPERABA..mp3</trackFile>
+        <trackTitle>LEO DAN - TU LLEGASTE CUANDO MENOS LO ESPERABA..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:23</trackLengh>
+        <trackFileSize>3.10 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>32</trackID>
+        <trackFile>musica/romanticos por siempre/llamo para despedirme..mp3</trackFile>
+        <trackTitle>llamo para despedirme..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:57</trackLengh>
+        <trackFileSize>2.70 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>33</trackID>
+        <trackFile>musica/romanticos por siempre/Lluvia (Luis Angel).mp3</trackFile>
+        <trackTitle>Lluvia (Luis Angel).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:01</trackLengh>
+        <trackFileSize>3.68 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>34</trackID>
+        <trackFile>musica/romanticos por siempre/lo pasado pasado-jos&#xE9; jos&#xE9;..mp3</trackFile>
+        <trackTitle>lo pasado pasado-jos&#xE9; jos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:10</trackLengh>
+        <trackFileSize>6.69 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>35</trackID>
+        <trackFile>musica/romanticos por siempre/LUNA BLANCA - KARINA.mp3</trackFile>
+        <trackTitle>LUNA BLANCA - KARINA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:39</trackLengh>
+        <trackFileSize>2.51 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>36</trackID>
+        <trackFile>musica/romanticos por siempre/l&#xE1;grimas-Joc&#xE9; Joc&#xE9;..mp3</trackFile>
+        <trackTitle>l&#xE1;grimas-Joc&#xE9; Joc&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:13</trackLengh>
+        <trackFileSize>4.78 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>37</trackID>
+        <trackFile>musica/romanticos por siempre/mari es mi amor-Leod&#xE1;n..mp3</trackFile>
+        <trackTitle>mari es mi amor-Leod&#xE1;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:09</trackLengh>
+        <trackFileSize>2.89 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>38</trackID>
+        <trackFile>musica/romanticos por siempre/me llamas-Joc&#xE9; Lu&#xED;s Perales..mp3</trackFile>
+        <trackTitle>me llamas-Joc&#xE9; Lu&#xED;s Perales..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:49</trackLengh>
+        <trackFileSize>4.40 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>39</trackID>
+        <trackFile>musica/romanticos por siempre/mi buen coraz&#xF3;n-Amanda Miguel..mp3</trackFile>
+        <trackTitle>mi buen coraz&#xF3;n-Amanda Miguel..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:15</trackLengh>
+        <trackFileSize>3.90 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>40</trackID>
+        <trackFile>musica/romanticos por siempre/MI PRIMER AMOR.mp3</trackFile>
+        <trackTitle>MI PRIMER AMOR.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:41</trackLengh>
+        <trackFileSize>3.38 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>41</trackID>
+        <trackFile>musica/romanticos por siempre/no mas contigo.mp3</trackFile>
+        <trackTitle>no mas contigo.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:24</trackLengh>
+        <trackFileSize>3.12 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>42</trackID>
+        <trackFile>musica/romanticos por siempre/no renuciar&#xE9;-Roc&#xED;o Jurado..mp3</trackFile>
+        <trackTitle>no renuciar&#xE9;-Roc&#xED;o Jurado..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:33</trackLengh>
+        <trackFileSize>2.45 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>43</trackID>
+        <trackFile>musica/romanticos por siempre/no te apartes de mi-Roberto Carlos..mp3</trackFile>
+        <trackTitle>no te apartes de mi-Roberto Carlos..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:16</trackLengh>
+        <trackFileSize>3.90 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>44</trackID>
+        <trackFile>musica/romanticos por siempre/NO TENGO DINERO.mp3</trackFile>
+        <trackTitle>NO TENGO DINERO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:08</trackLengh>
+        <trackFileSize>2.15 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>45</trackID>
+        <trackFile>musica/romanticos por siempre/nunca m&#xE1;s podr&#xE9; olvidarte-los cuatro soles..mp3</trackFile>
+        <trackTitle>nunca m&#xE1;s podr&#xE9; olvidarte-los cuatro soles..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:45</trackLengh>
+        <trackFileSize>1.88 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>46</trackID>
+        <trackFile>musica/romanticos por siempre/o quis&#xE1; simple mente te regale una rosa-Leonardo Fabio..mp3</trackFile>
+        <trackTitle>o quis&#xE1; simple mente te regale una rosa-Leonardo Fabio..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:22</trackLengh>
+        <trackFileSize>3.08 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>47</trackID>
+        <trackFile>musica/romanticos por siempre/Olvidemos el pasado-MARIA LA FORET.mp3</trackFile>
+        <trackTitle>Olvidemos el pasado-MARIA LA FORET.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:34</trackLengh>
+        <trackFileSize>1.76 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>48</trackID>
+        <trackFile>musica/romanticos por siempre/pajarillo-napole&#xF3;n..mp3</trackFile>
+        <trackTitle>pajarillo-napole&#xF3;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:14</trackLengh>
+        <trackFileSize>3.71 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>49</trackID>
+        <trackFile>musica/romanticos por siempre/para amarnos m&#xE1;s-Manuel Mijares..mp3</trackFile>
+        <trackTitle>para amarnos m&#xE1;s-Manuel Mijares..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:28</trackLengh>
+        <trackFileSize>3.17 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>50</trackID>
+        <trackFile>musica/romanticos por siempre/PARA TODA LAVIDA.mp3</trackFile>
+        <trackTitle>PARA TODA LAVIDA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:11</trackLengh>
+        <trackFileSize>3.84 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>51</trackID>
+        <trackFile>musica/romanticos por siempre/PEQUE&#xD1;A Y FRAGIL.mp3</trackFile>
+        <trackTitle>PEQUE&#xD1;A Y FRAGIL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:08</trackLengh>
+        <trackFileSize>3.78 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>52</trackID>
+        <trackFile>musica/romanticos por siempre/peque&#xF1;a y fr&#xE1;gil..mp3</trackFile>
+        <trackTitle>peque&#xF1;a y fr&#xE1;gil..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:08</trackLengh>
+        <trackFileSize>3.78 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>53</trackID>
+        <trackFile>musica/romanticos por siempre/PERALES - CANCI&#xD2;N PARA LA NAVIDAD.mp3</trackFile>
+        <trackTitle>PERALES - CANCI&#xD2;N PARA LA NAVIDAD.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:54</trackLengh>
+        <trackFileSize>3.57 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>54</trackID>
+        <trackFile>musica/romanticos por siempre/perd&#xF3;n por ser como soy..mp3</trackFile>
+        <trackTitle>perd&#xF3;n por ser como soy..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:20</trackLengh>
+        <trackFileSize>3.05 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>55</trackID>
+        <trackFile>musica/romanticos por siempre/perd&#xF3;name Camilo Sesto..mp3</trackFile>
+        <trackTitle>perd&#xF3;name Camilo Sesto..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:56</trackLengh>
+        <trackFileSize>3.60 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>56</trackID>
+        <trackFile>musica/romanticos por siempre/por t&#xED;-Joc&#xE9; Lu&#xED;s Perales..mp3</trackFile>
+        <trackTitle>por t&#xED;-Joc&#xE9; Lu&#xED;s Perales..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:28</trackLengh>
+        <trackFileSize>3.17 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>57</trackID>
+        <trackFile>musica/romanticos por siempre/probocaci&#xF3;n-Rafael..mp3</trackFile>
+        <trackTitle>probocaci&#xF3;n-Rafael..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:34</trackLengh>
+        <trackFileSize>3.26 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>58</trackID>
+        <trackFile>musica/romanticos por siempre/RAPHAEL - CIERRO MIS OJOS.mp3</trackFile>
+        <trackTitle>RAPHAEL - CIERRO MIS OJOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:34</trackLengh>
+        <trackFileSize>3.26 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>59</trackID>
+        <trackFile>musica/romanticos por siempre/RAPHAEL - DESDE AQUEL DIA.mp3</trackFile>
+        <trackTitle>RAPHAEL - DESDE AQUEL DIA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:56</trackLengh>
+        <trackFileSize>2.68 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>60</trackID>
+        <trackFile>musica/romanticos por siempre/RAPHAEL - ESTUVE ENAMORADO.mp3</trackFile>
+        <trackTitle>RAPHAEL - ESTUVE ENAMORADO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:20</trackLengh>
+        <trackFileSize>2.14 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>61</trackID>
+        <trackFile>musica/romanticos por siempre/RAPHAEL - HOY MEJOR QUE MA&#xD1;ANA.mp3</trackFile>
+        <trackTitle>RAPHAEL - HOY MEJOR QUE MA&#xD1;ANA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:37</trackLengh>
+        <trackFileSize>2.40 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>62</trackID>
+        <trackFile>musica/romanticos por siempre/RAUL ABRANZOM.mp3</trackFile>
+        <trackTitle>RAUL ABRANZOM.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:00</trackLengh>
+        <trackFileSize>2.06 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>63</trackID>
+        <trackFile>musica/romanticos por siempre/REYNA DECORAZONES.mp3</trackFile>
+        <trackTitle>REYNA DECORAZONES.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:38</trackLengh>
+        <trackFileSize>3.32 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>64</trackID>
+        <trackFile>musica/romanticos por siempre/ROSAS EN ELMAR.mp3</trackFile>
+        <trackTitle>ROSAS EN ELMAR.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:42</trackLengh>
+        <trackFileSize>3.40 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>65</trackID>
+        <trackFile>musica/romanticos por siempre/SELLADO POR UN BESO.mp3</trackFile>
+        <trackTitle>SELLADO POR UN BESO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:28</trackLengh>
+        <trackFileSize>2.26 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>66</trackID>
+        <trackFile>musica/romanticos por siempre/selos-Napole&#xF3;n..mp3</trackFile>
+        <trackTitle>selos-Napole&#xF3;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:52</trackLengh>
+        <trackFileSize>6.20 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>67</trackID>
+        <trackFile>musica/romanticos por siempre/ser&#xE1; porqu&#xE9; te amo-fresas con crema-.mp3</trackFile>
+        <trackTitle>ser&#xE1; porqu&#xE9; te amo-fresas con crema-.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:10</trackLengh>
+        <trackFileSize>2.18 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>68</trackID>
+        <trackFile>musica/romanticos por siempre/si la ves - Franco de Vita -.mp3</trackFile>
+        <trackTitle>si la ves - Franco de Vita -.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:04</trackLengh>
+        <trackFileSize>3.26 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>69</trackID>
+        <trackFile>musica/romanticos por siempre/si me dejas ahora-Jos&#xE9; Jos&#xE9;..mp3</trackFile>
+        <trackTitle>si me dejas ahora-Jos&#xE9; Jos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:15</trackLengh>
+        <trackFileSize>2.97 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>70</trackID>
+        <trackFile>musica/romanticos por siempre/si tu no vuelbes-Miguel Bos&#xE9;..mp3</trackFile>
+        <trackTitle>si tu no vuelbes-Miguel Bos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:46</trackLengh>
+        <trackFileSize>4.36 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>71</trackID>
+        <trackFile>musica/romanticos por siempre/SI TU SUPIERAS.mp3</trackFile>
+        <trackTitle>SI TU SUPIERAS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:04</trackLengh>
+        <trackFileSize>3.72 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>72</trackID>
+        <trackFile>musica/romanticos por siempre/solo una vez-Leod&#xE1;n..mp3</trackFile>
+        <trackTitle>solo una vez-Leod&#xE1;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:29</trackLengh>
+        <trackFileSize>2.27 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>73</trackID>
+        <trackFile>musica/romanticos por siempre/SOY REBELDE - JEANETTE.mp3</trackFile>
+        <trackTitle>SOY REBELDE - JEANETTE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:15</trackLengh>
+        <trackFileSize>2.97 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>74</trackID>
+        <trackFile>musica/romanticos por siempre/sue&#xF1;os conpartidos-Lauriano Brisuela..mp3</trackFile>
+        <trackTitle>sue&#xF1;os conpartidos-Lauriano Brisuela..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:12</trackLengh>
+        <trackFileSize>3.85 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>75</trackID>
+        <trackFile>musica/romanticos por siempre/toquen mariachis-Leod&#xE1;n..mp3</trackFile>
+        <trackTitle>toquen mariachis-Leod&#xE1;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:37</trackLengh>
+        <trackFileSize>3.31 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>76</trackID>
+        <trackFile>musica/romanticos por siempre/TRIUNFEMOS.mp3</trackFile>
+        <trackTitle>TRIUNFEMOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:30</trackLengh>
+        <trackFileSize>4.12 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>77</trackID>
+        <trackFile>musica/romanticos por siempre/tu como yo-Jos&#xE9; Lu&#xED;s Perales..mp3</trackFile>
+        <trackTitle>tu como yo-Jos&#xE9; Lu&#xED;s Perales..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:00:00</trackLengh>
+        <trackFileSize>4.07 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>78</trackID>
+        <trackFile>musica/romanticos por siempre/TU MU&#xD1;ECA - DULCE.mp3</trackFile>
+        <trackTitle>TU MU&#xD1;ECA - DULCE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:42</trackLengh>
+        <trackFileSize>2.55 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>79</trackID>
+        <trackFile>musica/romanticos por siempre/TU NOMBRE EN LAARENA.mp3</trackFile>
+        <trackTitle>TU NOMBRE EN LAARENA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:24</trackLengh>
+        <trackFileSize>2.20 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>80</trackID>
+        <trackFile>musica/romanticos por siempre/TU SIGNIFICAS TODO PARA MI.mp3</trackFile>
+        <trackTitle>TU SIGNIFICAS TODO PARA MI.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:44</trackLengh>
+        <trackFileSize>2.51 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>81</trackID>
+        <trackFile>musica/romanticos por siempre/t&#xF3;mame o d&#xE9;jame-mocedades..mp3</trackFile>
+        <trackTitle>t&#xF3;mame o d&#xE9;jame-mocedades..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:15</trackLengh>
+        <trackFileSize>2.98 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>82</trackID>
+        <trackFile>musica/romanticos por siempre/vibe-Napole&#xF3;n..mp3</trackFile>
+        <trackTitle>vibe-Napole&#xF3;n..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:05</trackLengh>
+        <trackFileSize>3.54 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>83</trackID>
+        <trackFile>musica/romanticos por siempre/volber&#xE9;-Sergio Facheli..mp3</trackFile>
+        <trackTitle>volber&#xE9;-Sergio Facheli..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:27</trackLengh>
+        <trackFileSize>2.37 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>84</trackID>
+        <trackFile>musica/romanticos por siempre/Y QUE.mp3</trackFile>
+        <trackTitle>Y QUE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:07</trackLengh>
+        <trackFileSize>2.86 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>84</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+  <album>
+    <albumID>116</albumID>
+    <albumTitle>romanticos por siempre 2</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/romanticos por siempre 2/0-intro..mp3</trackFile>
+        <trackTitle>0-intro..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:51</trackLengh>
+        <trackFileSize>8.02 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/romanticos por siempre 2/002 almohada-Joc&#xE9; Jos&#xE9;..mp3</trackFile>
+        <trackTitle>002 almohada-Joc&#xE9; Jos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:37</trackLengh>
+        <trackFileSize>2.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/romanticos por siempre 2/002-MI AMOR ES PARA TI-Los Solitarios.mp3</trackFile>
+        <trackTitle>002-MI AMOR ES PARA TI-Los Solitarios.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:46</trackLengh>
+        <trackFileSize>1.91 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/romanticos por siempre 2/003-CUATRO L&#xE1;grimas-Los Polifac&#xE9;ticos.mp3</trackFile>
+        <trackTitle>003-CUATRO L&#xE1;grimas-Los Polifac&#xE9;ticos.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:03</trackLengh>
+        <trackFileSize>2.10 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/romanticos por siempre 2/004 AMADA AMANTE-roberto carlos.mp3</trackFile>
+        <trackTitle>004 AMADA AMANTE-roberto carlos.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:19</trackLengh>
+        <trackFileSize>2.96 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>6</trackID>
+        <trackFile>musica/romanticos por siempre 2/005 CAMILO SESTO - MI BUEN AMOR.mp3</trackFile>
+        <trackTitle>005 CAMILO SESTO - MI BUEN AMOR.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:34</trackLengh>
+        <trackFileSize>2.44 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>7</trackID>
+        <trackFile>musica/romanticos por siempre 2/005 Mi problema-marisela.mp3</trackFile>
+        <trackTitle>005 Mi problema-marisela.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:59</trackLengh>
+        <trackFileSize>2.05 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>8</trackID>
+        <trackFile>musica/romanticos por siempre 2/006  Amor Eterno-juan gabriel.mp3</trackFile>
+        <trackTitle>006  Amor Eterno-juan gabriel.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:00</trackLengh>
+        <trackFileSize>3.43 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>9</trackID>
+        <trackFile>musica/romanticos por siempre 2/009  NAPOLEON - HOMBRE.mp3</trackFile>
+        <trackTitle>009  NAPOLEON - HOMBRE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:33</trackLengh>
+        <trackFileSize>2.43 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>10</trackID>
+        <trackFile>musica/romanticos por siempre 2/011  CAMILO SESTO - DONDE ESTES, CON QUIEN ESTES.mp3</trackFile>
+        <trackTitle>011  CAMILO SESTO - DONDE ESTES, CON QUIEN ESTES.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:20</trackLengh>
+        <trackFileSize>2.98 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>11</trackID>
+        <trackFile>musica/romanticos por siempre 2/013  LEO DAN - COMO TE EXTRA&#xD1;O MI AMOR.mp3</trackFile>
+        <trackTitle>013  LEO DAN - COMO TE EXTRA&#xD1;O MI AMOR.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:57</trackLengh>
+        <trackFileSize>2.03 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>12</trackID>
+        <trackFile>musica/romanticos por siempre 2/015 LEO DAN - ESA PARED.mp3</trackFile>
+        <trackTitle>015 LEO DAN - ESA PARED.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:06</trackLengh>
+        <trackFileSize>2.13 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>13</trackID>
+        <trackFile>musica/romanticos por siempre 2/016 La pareja ideal-marisela.mp3</trackFile>
+        <trackTitle>016 La pareja ideal-marisela.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:31</trackLengh>
+        <trackFileSize>3.22 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>14</trackID>
+        <trackFile>musica/romanticos por siempre 2/018 ENTRE ELLA Y TU.mp3</trackFile>
+        <trackTitle>018 ENTRE ELLA Y TU.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:35</trackLengh>
+        <trackFileSize>3.28 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>15</trackID>
+        <trackFile>musica/romanticos por siempre 2/018 LA DISTANCIA-roberto carlos.mp3</trackFile>
+        <trackTitle>018 LA DISTANCIA-roberto carlos.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:27</trackLengh>
+        <trackFileSize>3.05 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>16</trackID>
+        <trackFile>musica/romanticos por siempre 2/019 DICISEIS A&#xD1;OS-JULIO IGLESIAS.mp3</trackFile>
+        <trackTitle>019 DICISEIS A&#xD1;OS-JULIO IGLESIAS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:29</trackLengh>
+        <trackFileSize>3.18 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>17</trackID>
+        <trackFile>musica/romanticos por siempre 2/02 - Cuando Vayas Conmigo.mp3</trackFile>
+        <trackTitle>02 - Cuando Vayas Conmigo.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:54</trackLengh>
+        <trackFileSize>3.59 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>18</trackID>
+        <trackFile>musica/romanticos por siempre 2/02 -ya lo se que tu te v&#xE1;s-Juan Gabriel.mp3</trackFile>
+        <trackTitle>02 -ya lo se que tu te v&#xE1;s-Juan Gabriel.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:47</trackLengh>
+        <trackFileSize>3.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>19</trackID>
+        <trackFile>musica/romanticos por siempre 2/020 HE RENUNCIADO A TI.mp3</trackFile>
+        <trackTitle>020 HE RENUNCIADO A TI.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:57</trackLengh>
+        <trackFileSize>3.62 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>20</trackID>
+        <trackFile>musica/romanticos por siempre 2/021 RAPHAEL - MI GRAN NOCHE.mp3</trackFile>
+        <trackTitle>021 RAPHAEL - MI GRAN NOCHE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:01</trackLengh>
+        <trackFileSize>2.77 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>21</trackID>
+        <trackFile>musica/romanticos por siempre 2/024 NAPOLEON - DESPUES DE TANTO.mp3</trackFile>
+        <trackTitle>024 NAPOLEON - DESPUES DE TANTO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:27</trackLengh>
+        <trackFileSize>3.16 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>22</trackID>
+        <trackFile>musica/romanticos por siempre 2/025 TARDE-ROCIO DULCAL.mp3</trackFile>
+        <trackTitle>025 TARDE-ROCIO DULCAL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:12</trackLengh>
+        <trackFileSize>2.94 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>23</trackID>
+        <trackFile>musica/romanticos por siempre 2/025-juguete caro-Organisaci&#xF3;n G&#xE9;nesis..mp3</trackFile>
+        <trackTitle>025-juguete caro-Organisaci&#xF3;n G&#xE9;nesis..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:00</trackLengh>
+        <trackFileSize>2.74 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>24</trackID>
+        <trackFile>musica/romanticos por siempre 2/028    LEO DAN - NI&#xD1;A QUE TIENEN TUS OJOS.mp3</trackFile>
+        <trackTitle>028    LEO DAN - NI&#xD1;A QUE TIENEN TUS OJOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:17</trackLengh>
+        <trackFileSize>3.00 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>25</trackID>
+        <trackFile>musica/romanticos por siempre 2/03 PARA QUE NO ME OLVIDES-LORENZO S..mp3</trackFile>
+        <trackTitle>03 PARA QUE NO ME OLVIDES-LORENZO S..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:02</trackLengh>
+        <trackFileSize>2.77 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>26</trackID>
+        <trackFile>musica/romanticos por siempre 2/04-fotograf&#xED;a-&#xD3;scar Ati&#xE9;..mp3</trackFile>
+        <trackTitle>04-fotograf&#xED;a-&#xD3;scar Ati&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:39</trackLengh>
+        <trackFileSize>2.51 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>27</trackID>
+        <trackFile>musica/romanticos por siempre 2/044-SI ACASO VUELVES-Los Fredis.&#xB4;.mp3</trackFile>
+        <trackTitle>044-SI ACASO VUELVES-Los Fredis.&#xB4;.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:25</trackLengh>
+        <trackFileSize>2.21 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>28</trackID>
+        <trackFile>musica/romanticos por siempre 2/049 FUE UN PLACER CONOCERTE-ROCIO DULCAL.mp3</trackFile>
+        <trackTitle>049 FUE UN PLACER CONOCERTE-ROCIO DULCAL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:02</trackLengh>
+        <trackFileSize>2.78 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>29</trackID>
+        <trackFile>musica/romanticos por siempre 2/05-banca rota-Braulio..mp3</trackFile>
+        <trackTitle>05-banca rota-Braulio..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:25</trackLengh>
+        <trackFileSize>3.04 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>30</trackID>
+        <trackFile>musica/romanticos por siempre 2/060-ROSAS ROJAS-Industria del Amor.mp3</trackFile>
+        <trackTitle>060-ROSAS ROJAS-Industria del Amor.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:19</trackLengh>
+        <trackFileSize>3.21 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>31</trackID>
+        <trackFile>musica/romanticos por siempre 2/07 - Una Vieja Cancion De Amor - Raul Albramzon.mp3</trackFile>
+        <trackTitle>07 - Una Vieja Cancion De Amor - Raul Albramzon.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:11</trackLengh>
+        <trackFileSize>2.19 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>32</trackID>
+        <trackFile>musica/romanticos por siempre 2/076 Sola con mi soledad-marisela.mp3</trackFile>
+        <trackTitle>076 Sola con mi soledad-marisela.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:48</trackLengh>
+        <trackFileSize>3.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>33</trackID>
+        <trackFile>musica/romanticos por siempre 2/08 DOS AMORES-SANDRO.mp3</trackFile>
+        <trackTitle>08 DOS AMORES-SANDRO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:14</trackLengh>
+        <trackFileSize>2.22 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>34</trackID>
+        <trackFile>musica/romanticos por siempre 2/09 SI EL AMOR SE VA-ROBERTO CARLOS.mp3</trackFile>
+        <trackTitle>09 SI EL AMOR SE VA-ROBERTO CARLOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:08</trackLengh>
+        <trackFileSize>2.83 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>35</trackID>
+        <trackFile>musica/romanticos por siempre 2/096-Lo dudo-Jos&#xE9; Jos&#xE9;..mp3</trackFile>
+        <trackTitle>096-Lo dudo-Jos&#xE9; Jos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:42</trackLengh>
+        <trackFileSize>3.39 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>36</trackID>
+        <trackFile>musica/romanticos por siempre 2/10 DONDE ESTARAS-RICHIE.mp3</trackFile>
+        <trackTitle>10 DONDE ESTARAS-RICHIE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:56</trackLengh>
+        <trackFileSize>2.01 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>37</trackID>
+        <trackFile>musica/romanticos por siempre 2/111 DUE&#xD1;O DE NADA-JOSE LUIS RODRIGUEZ.mp3</trackFile>
+        <trackTitle>111 DUE&#xD1;O DE NADA-JOSE LUIS RODRIGUEZ.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:06</trackLengh>
+        <trackFileSize>3.84 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>38</trackID>
+        <trackFile>musica/romanticos por siempre 2/119 POR QUE YO TE AMO-SANDRO.mp3</trackFile>
+        <trackTitle>119 POR QUE YO TE AMO-SANDRO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:35</trackLengh>
+        <trackFileSize>3.28 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>39</trackID>
+        <trackFile>musica/romanticos por siempre 2/13-costumbre-Roc&#xED;o D&#xFA;rcal..mp3</trackFile>
+        <trackTitle>13-costumbre-Roc&#xED;o D&#xFA;rcal..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:31</trackLengh>
+        <trackFileSize>4.13 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>40</trackID>
+        <trackFile>musica/romanticos por siempre 2/147 - Julio Iglesias - Aveces Tu Aveces Yo.mp3</trackFile>
+        <trackTitle>147 - Julio Iglesias - Aveces Tu Aveces Yo.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:52</trackLengh>
+        <trackFileSize>2.63 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>41</trackID>
+        <trackFile>musica/romanticos por siempre 2/15-Me estoy acostumbrando a ti-Ricardo sherato..mp3</trackFile>
+        <trackTitle>15-Me estoy acostumbrando a ti-Ricardo sherato..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:10</trackLengh>
+        <trackFileSize>2.90 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>42</trackID>
+        <trackFile>musica/romanticos por siempre 2/16 SOY LO PROHIBIDO-VICTOR Y TURBE.mp3</trackFile>
+        <trackTitle>16 SOY LO PROHIBIDO-VICTOR Y TURBE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:08</trackLengh>
+        <trackFileSize>2.15 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>43</trackID>
+        <trackFile>musica/romanticos por siempre 2/17 TE AMO-FRANCO DE VITA.mp3</trackFile>
+        <trackTitle>17 TE AMO-FRANCO DE VITA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:50</trackLengh>
+        <trackFileSize>3.52 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>44</trackID>
+        <trackFile>musica/romanticos por siempre 2/18 QUIEN ERES TU-NELSON NED.mp3</trackFile>
+        <trackTitle>18 QUIEN ERES TU-NELSON NED.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:17</trackLengh>
+        <trackFileSize>3.93 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>45</trackID>
+        <trackFile>musica/romanticos por siempre 2/19 POR TI-JOSE LUIS PERALES.mp3</trackFile>
+        <trackTitle>19 POR TI-JOSE LUIS PERALES.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:28</trackLengh>
+        <trackFileSize>3.17 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>46</trackID>
+        <trackFile>musica/romanticos por siempre 2/20 TENGO MUCHO QUE APRENDER DE TI-EMANUEL.mp3</trackFile>
+        <trackTitle>20 TENGO MUCHO QUE APRENDER DE TI-EMANUEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:48</trackLengh>
+        <trackFileSize>3.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>47</trackID>
+        <trackFile>musica/romanticos por siempre 2/21-hipocrec&#xED;a-Pasteles verdes-.mp3</trackFile>
+        <trackTitle>21-hipocrec&#xED;a-Pasteles verdes-.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:20</trackLengh>
+        <trackFileSize>2.97 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>48</trackID>
+        <trackFile>musica/romanticos por siempre 2/23 OTRO OCUPA MI LUGAR-MIGUEL GALLARDO.mp3</trackFile>
+        <trackTitle>23 OTRO OCUPA MI LUGAR-MIGUEL GALLARDO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:44</trackLengh>
+        <trackFileSize>3.23 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>49</trackID>
+        <trackFile>musica/romanticos por siempre 2/24-mientras llueve-Jos&#xE9; Jos&#xE9;..mp3</trackFile>
+        <trackTitle>24-mientras llueve-Jos&#xE9; Jos&#xE9;..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:54</trackLengh>
+        <trackFileSize>2.66 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>50</trackID>
+        <trackFile>musica/romanticos por siempre 2/27 CASI SIEMPRE ESTOY PENSANDO EN TI-JORGE.mp3</trackFile>
+        <trackTitle>27 CASI SIEMPRE ESTOY PENSANDO EN TI-JORGE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:27</trackLengh>
+        <trackFileSize>2.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>51</trackID>
+        <trackFile>musica/romanticos por siempre 2/31 LE&#xD1;A VERDE-NAPOLEON.mp3</trackFile>
+        <trackTitle>31 LE&#xD1;A VERDE-NAPOLEON.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:06</trackLengh>
+        <trackFileSize>2.84 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>52</trackID>
+        <trackFile>musica/romanticos por siempre 2/33-No se ha dado cuenta..mp3</trackFile>
+        <trackTitle>33-No se ha dado cuenta..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:35</trackLengh>
+        <trackFileSize>2.37 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>53</trackID>
+        <trackFile>musica/romanticos por siempre 2/34 PROMETIMOS NO LLORAR-PALITO ORTEGA.mp3</trackFile>
+        <trackTitle>34 PROMETIMOS NO LLORAR-PALITO ORTEGA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:18</trackLengh>
+        <trackFileSize>3.02 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>54</trackID>
+        <trackFile>musica/romanticos por siempre 2/36 QUIERO DORMIR CANSADO-EMMANUEL.mp3</trackFile>
+        <trackTitle>36 QUIERO DORMIR CANSADO-EMMANUEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:59</trackLengh>
+        <trackFileSize>3.65 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>55</trackID>
+        <trackFile>musica/romanticos por siempre 2/39   LEO DAN - PERO RAQUEL.mp3</trackFile>
+        <trackTitle>39   LEO DAN - PERO RAQUEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:07</trackLengh>
+        <trackFileSize>1.94 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>56</trackID>
+        <trackFile>musica/romanticos por siempre 2/40 y 20-jos&#xE9; jos&#xE9;.mp3</trackFile>
+        <trackTitle>40 y 20-jos&#xE9; jos&#xE9;.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:02</trackLengh>
+        <trackFileSize>6.47 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>57</trackID>
+        <trackFile>musica/romanticos por siempre 2/41 MORIR DE AMOR-MIGUEL BOSE.mp3</trackFile>
+        <trackTitle>41 MORIR DE AMOR-MIGUEL BOSE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:44</trackLengh>
+        <trackFileSize>3.42 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>58</trackID>
+        <trackFile>musica/romanticos por siempre 2/42 NO ME VUELVO A ENAMORAR-JUAN GABRIEL.mp3</trackFile>
+        <trackTitle>42 NO ME VUELVO A ENAMORAR-JUAN GABRIEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:21</trackLengh>
+        <trackFileSize>3.06 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>59</trackID>
+        <trackFile>musica/romanticos por siempre 2/43 EN CARNE VIVA-RAPHAEL.mp3</trackFile>
+        <trackTitle>43 EN CARNE VIVA-RAPHAEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:12</trackLengh>
+        <trackFileSize>3.84 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>60</trackID>
+        <trackFile>musica/romanticos por siempre 2/45 MI VIEJO-PIERO.mp3</trackFile>
+        <trackTitle>45 MI VIEJO-PIERO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:20</trackLengh>
+        <trackFileSize>3.05 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>61</trackID>
+        <trackFile>musica/romanticos por siempre 2/46-Otodo o nada-Sergio Fachelli..mp3</trackFile>
+        <trackTitle>46-Otodo o nada-Sergio Fachelli..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:33</trackLengh>
+        <trackFileSize>3.24 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>62</trackID>
+        <trackFile>musica/romanticos por siempre 2/48 CREO SOLAMENTEA TI-DIEGO VERDAGUER.mp3</trackFile>
+        <trackTitle>48 CREO SOLAMENTEA TI-DIEGO VERDAGUER.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:42</trackLengh>
+        <trackFileSize>2.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>63</trackID>
+        <trackFile>musica/romanticos por siempre 2/48 NAPOLEON - TREINTA A&#xD1;OS.mp3</trackFile>
+        <trackTitle>48 NAPOLEON - TREINTA A&#xD1;OS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:20</trackLengh>
+        <trackFileSize>3.97 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>64</trackID>
+        <trackFile>musica/romanticos por siempre 2/49-yo lo comprendo-V&#xED;ctor Iturbe..mp3</trackFile>
+        <trackTitle>49-yo lo comprendo-V&#xED;ctor Iturbe..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:51</trackLengh>
+        <trackFileSize>2.61 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>65</trackID>
+        <trackFile>musica/romanticos por siempre 2/50 ME ENAMORO DE TI-RICHI Y POVERY.mp3</trackFile>
+        <trackTitle>50 ME ENAMORO DE TI-RICHI Y POVERY.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:11</trackLengh>
+        <trackFileSize>2.92 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>66</trackID>
+        <trackFile>musica/romanticos por siempre 2/52 NO ME DIGAS QUE TE VAS-JOSE JOSE.mp3</trackFile>
+        <trackTitle>52 NO ME DIGAS QUE TE VAS-JOSE JOSE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:48</trackLengh>
+        <trackFileSize>3.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>67</trackID>
+        <trackFile>musica/romanticos por siempre 2/55-Si quieres verme llorar-elisa L..mp3</trackFile>
+        <trackTitle>55-Si quieres verme llorar-elisa L..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:11</trackLengh>
+        <trackFileSize>2.91 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>68</trackID>
+        <trackFile>musica/romanticos por siempre 2/68 VETE CON ELLA-MAITE GAOS.mp3</trackFile>
+        <trackTitle>68 VETE CON ELLA-MAITE GAOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:55</trackLengh>
+        <trackFileSize>2.67 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>69</trackID>
+        <trackFile>musica/romanticos por siempre 2/71 VOLVERE-DIEGO VERDAGUER.mp3</trackFile>
+        <trackTitle>71 VOLVERE-DIEGO VERDAGUER.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:36</trackLengh>
+        <trackFileSize>3.29 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>70</trackID>
+        <trackFile>musica/romanticos por siempre 2/72 UN BUEN PERDEDOR-FRANCO DE VITA.mp3</trackFile>
+        <trackTitle>72 UN BUEN PERDEDOR-FRANCO DE VITA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:02</trackLengh>
+        <trackFileSize>3.69 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>71</trackID>
+        <trackFile>musica/romanticos por siempre 2/76 MUCHACHITA-MIGUEL GALLARDO.mp3</trackFile>
+        <trackTitle>76 MUCHACHITA-MIGUEL GALLARDO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:31</trackLengh>
+        <trackFileSize>3.22 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>72</trackID>
+        <trackFile>musica/romanticos por siempre 2/77 HEY-JULIO IGLECIAS.mp3</trackFile>
+        <trackTitle>77 HEY-JULIO IGLECIAS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:00</trackLengh>
+        <trackFileSize>4.58 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>73</trackID>
+        <trackFile>musica/romanticos por siempre 2/78-Ella ya me olvid&#xF3;-Leonardo Favio..mp3</trackFile>
+        <trackTitle>78-Ella ya me olvid&#xF3;-Leonardo Favio..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:47</trackLengh>
+        <trackFileSize>3.46 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>74</trackID>
+        <trackFile>musica/romanticos por siempre 2/80 VOLCAN-JOSE JOSE.mp3</trackFile>
+        <trackTitle>80 VOLCAN-JOSE JOSE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:45</trackLengh>
+        <trackFileSize>4.35 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>75</trackID>
+        <trackFile>musica/romanticos por siempre 2/81 SI VOS SE VAS-PIERO.mp3</trackFile>
+        <trackTitle>81 SI VOS SE VAS-PIERO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:56</trackLengh>
+        <trackFileSize>2.69 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>76</trackID>
+        <trackFile>musica/romanticos por siempre 2/84 EL AMOR DE MI VIDA-CAMILO SESTO.mp3</trackFile>
+        <trackTitle>84 EL AMOR DE MI VIDA-CAMILO SESTO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:36</trackLengh>
+        <trackFileSize>5.13 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>77</trackID>
+        <trackFile>musica/romanticos por siempre 2/85 YA LO SE QUE TE VAS-JUAN GABRIEL.mp3</trackFile>
+        <trackTitle>85 YA LO SE QUE TE VAS-JUAN GABRIEL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:45</trackLengh>
+        <trackFileSize>3.43 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>78</trackID>
+        <trackFile>musica/romanticos por siempre 2/86 CAMA Y MESA-ROBERTO CARLOS.mp3</trackFile>
+        <trackTitle>86 CAMA Y MESA-ROBERTO CARLOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:17</trackLengh>
+        <trackFileSize>3.01 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>79</trackID>
+        <trackFile>musica/romanticos por siempre 2/9 - Me Basta.mp3</trackFile>
+        <trackTitle>9 - Me Basta.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:52</trackLengh>
+        <trackFileSize>6.20 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>80</trackID>
+        <trackFile>musica/romanticos por siempre 2/90 ACOMPA&#xD1;AME-ROCIO DURCAL.mp3</trackFile>
+        <trackTitle>90 ACOMPA&#xD1;AME-ROCIO DURCAL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:37</trackLengh>
+        <trackFileSize>3.31 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>81</trackID>
+        <trackFile>musica/romanticos por siempre 2/91 FRENTE A FRENTE-JANNETH.mp3</trackFile>
+        <trackTitle>91 FRENTE A FRENTE-JANNETH.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:17</trackLengh>
+        <trackFileSize>3.00 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>82</trackID>
+        <trackFile>musica/romanticos por siempre 2/93 PERDONAME-ESTRELLITA.mp3</trackFile>
+        <trackTitle>93 PERDONAME-ESTRELLITA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:32</trackLengh>
+        <trackFileSize>3.23 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>83</trackID>
+        <trackFile>musica/romanticos por siempre 2/95 TU SERAS MI BABY-LOS SURFS.mp3</trackFile>
+        <trackTitle>95 TU SERAS MI BABY-LOS SURFS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:23</trackLengh>
+        <trackFileSize>2.19 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>84</trackID>
+        <trackFile>musica/romanticos por siempre 2/A ESA - PIMPINELLA.mp3</trackFile>
+        <trackTitle>A ESA - PIMPINELLA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:11</trackLengh>
+        <trackFileSize>2.91 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>85</trackID>
+        <trackFile>musica/romanticos por siempre 2/A PESAR D TODO - NELSON NED.mp3</trackFile>
+        <trackTitle>A PESAR D TODO - NELSON NED.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:07</trackLengh>
+        <trackFileSize>3.57 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>86</trackID>
+        <trackFile>musica/romanticos por siempre 2/AGAMOS UNTRATO.mp3</trackFile>
+        <trackTitle>AGAMOS UNTRATO.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:46</trackLengh>
+        <trackFileSize>2.54 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>87</trackID>
+        <trackFile>musica/romanticos por siempre 2/Aldo Monges 017 Brindo Por Tu Cumplea&#xF1;os.mp3</trackFile>
+        <trackTitle>Aldo Monges 017 Brindo Por Tu Cumplea&#xF1;os.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:36</trackLengh>
+        <trackFileSize>4.21 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>88</trackID>
+        <trackFile>musica/romanticos por siempre 2/AMANTES A LA ANTIGUA - ROBERTO CARLOS.mp3</trackFile>
+        <trackTitle>AMANTES A LA ANTIGUA - ROBERTO CARLOS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:18</trackLengh>
+        <trackFileSize>3.03 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>89</trackID>
+        <trackFile>musica/romanticos por siempre 2/AMIGA - MIGUEL BOSE.mp3</trackFile>
+        <trackTitle>AMIGA - MIGUEL BOSE.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:45</trackLengh>
+        <trackFileSize>4.35 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>90</trackID>
+        <trackFile>musica/romanticos por siempre 2/AMOR DE ESTUDIANTE - ROBERTO JORDAN.mp3</trackFile>
+        <trackTitle>AMOR DE ESTUDIANTE - ROBERTO JORDAN.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:02:13</trackLengh>
+        <trackFileSize>2.54 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>91</trackID>
+        <trackFile>musica/romanticos por siempre 2/am&#xE1;ndote..mp3</trackFile>
+        <trackTitle>am&#xE1;ndote..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:00</trackLengh>
+        <trackFileSize>3.67 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>92</trackID>
+        <trackFile>musica/romanticos por siempre 2/As&#xED;  FUE - ISABEL PANTOJA.mp3</trackFile>
+        <trackTitle>As&#xED;  FUE - ISABEL PANTOJA.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:34</trackLengh>
+        <trackFileSize>3.83 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>93</trackID>
+        <trackFile>musica/romanticos por siempre 2/bolverte a ver Diango..mp3</trackFile>
+        <trackTitle>bolverte a ver Diango..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:02</trackLengh>
+        <trackFileSize>3.69 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>94</trackID>
+        <trackFile>musica/romanticos por siempre 2/bolv&#xE9;r a verte ROCIO DURCAL.mp3</trackFile>
+        <trackTitle>bolv&#xE9;r a verte ROCIO DURCAL.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:16</trackLengh>
+        <trackFileSize>2.24 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>95</trackID>
+        <trackFile>musica/romanticos por siempre 2/callados-Camilo Sesto..mp3</trackFile>
+        <trackTitle>callados-Camilo Sesto..mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:25</trackLengh>
+        <trackFileSize>4.96 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>95</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
 </albumList>

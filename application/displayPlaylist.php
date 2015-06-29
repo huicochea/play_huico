@@ -34,6 +34,7 @@ $smarty->assign("albumTitle", $albumTitle);
 $smarty->assign("albumCover", $albumCover);
 $smarty->assign("albumID",$albumID);
 $smarty->assign("trackLengh",$trackLengh);
+$smarty->assign("trackFile",$trackFile);
 $smarty->assign("js_load_all_playlist",$js_load_all_playlist);
 
 $smarty->display('displayPlaylist.tpl');

@@ -32,8 +32,10 @@
 						{$arrayAlbums[sec1].trackLengh}
 						<!-- {$arrayAlbums[sec1].trackFileSize} -->
 				</td>
-				<td><a href="javascript:add_track(js_load_track_{$i})" onclick="javascript:afficher_cacher('jp-playlist');" >
-					<img border="0" src="images/close_popin.png" title="Eliminar"></a></td><!-- Eliminar cancion-->
+				<td>
+					<a href="#" onclick="elimina(this)" name="{$arrayAlbums[sec1].trackFile}">
+					<img border="0" src="images/close_popin.png" title="Eliminar"></a>
+				</td><!-- Eliminar cancion-->
 				<td><a href="javascript:add_track(js_load_track_{$i})" onclick="javascript:afficher_cacher('jp-playlist');" >
 					<img border="0" src="images/add.png" title="Agregar a lista de reproduccion"></a>
 				</td>

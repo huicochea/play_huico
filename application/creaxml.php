@@ -46,24 +46,22 @@
                                       $libro = $xml->createElement('album');//se empieza a iterar desde el album
                                       $libro = $playlist->appendChild($libro);
                                  
-                                        $autor = $xml->createElement('albumID',"$GLOBALS[contador]");
-                                        $autor = $libro->appendChild($autor);
+                                      $autor = $xml->createElement('albumID',"$GLOBALS[contador]");
+                                      $autor = $libro->appendChild($autor);
 
-                                        $titulo = $xml->createElement('albumTitle',htmlspecialchars(utf8_encode($archivo)));
-                                        $titulo = $libro->appendChild($titulo);
+                                      $titulo = $xml->createElement('albumTitle',htmlspecialchars(utf8_encode($archivo)));
+                                      $titulo = $libro->appendChild($titulo);
 
-                                        $anio = $xml->createElement('albumArtist','unknown');
-                                        $anio = $libro->appendChild($anio);
+                                      $anio = $xml->createElement('albumArtist','unknown');
+                                      $anio = $libro->appendChild($anio);
 
-                                        //$albumFolder = $xml->createElement('albumFolder','../data/ACDC/Back In Black/');//No se aun que es esto,parece ser la ubicacion de las imagenes
-                                        $albumFolder = $xml->createElement('albumFolder','/images');
-                                        $albumFolder = $libro->appendChild($albumFolder);
+                                      //$albumFolder = $xml->createElement('albumFolder','../data/ACDC/Back In Black/');//No se aun que es esto,parece ser la ubicacion de las imagenes
+                                      $albumFolder = $xml->createElement('albumFolder','/images');
+                                      $albumFolder = $libro->appendChild($albumFolder);
 
-                                        $albumTracks = $xml->createElement('albumTracks');//Empieza la lista de canciones
-                                        $albumTracks = $libro->appendChild($albumTracks);
- 
-                                                    
-      
+                                      $albumTracks = $xml->createElement('albumTracks');//Empieza la lista de canciones
+                                      $albumTracks = $libro->appendChild($albumTracks);
+                                                        
                                       $no_cancion = 1;
                                       while (($archivo2 = readdir($aux2)) !== false)
                                       {
@@ -78,35 +76,35 @@
                                               {
                                                     if(substr("$ruta_completa2", -3, 3)=="mp3"){ //El sistema solo soporta archivos con expencion mp3   
 
-                                                          $track = $xml->createElement('track');
-                                                          $track = $albumTracks->appendChild($track); 
+                                                      $track = $xml->createElement('track');
+                                                      $track = $albumTracks->appendChild($track); 
 
-                                                          $trackID = $xml->createElement('trackID',"$no_cancion");
-                                                          $trackID = $track->appendChild($trackID);
+                                                      $trackID = $xml->createElement('trackID',"$no_cancion");
+                                                      $trackID = $track->appendChild($trackID);
 
-                                                          $trackFile = $xml->createElement('trackFile', htmlspecialchars(utf8_encode($ruta_completa2)));//Ubicacion del archivo
-                                                          $trackFile = $track->appendChild($trackFile);
+                                                      $trackFile = $xml->createElement('trackFile', htmlspecialchars(utf8_encode($ruta_completa2)));//Ubicacion del archivo
+                                                      $trackFile = $track->appendChild($trackFile);
 
-                                                          $trackTitle = $xml->createElement('trackTitle', htmlspecialchars(utf8_encode($archivo2)));
-                                                          $trackTitle = $track->appendChild($trackTitle);
+                                                      $trackTitle = $xml->createElement('trackTitle', htmlspecialchars(utf8_encode($archivo2)));//Nombre del archivo
+                                                      $trackTitle = $track->appendChild($trackTitle);
 
-                                                          $trackArtist = $xml->createElement('trackArtist',"Unknow");
-                                                          $trackArtist = $track->appendChild($trackArtist);
-                                                          
-                                                          //Calcular el timpo de la camcion
-                                                          $mp3file = new MP3File(htmlspecialchars(utf8_encode($ruta_completa2)));
-                                                          $duration2 = $mp3file->getDuration();//(slower) for VBR (or CBR)                                                          
+                                                      $trackArtist = $xml->createElement('trackArtist',"Unknow");
+                                                      $trackArtist = $track->appendChild($trackArtist);
+                                                      
+                                                      //Calcular el timpo de la cancion
+                                                      $mp3file = new MP3File(htmlspecialchars($ruta_completa2));
+                                                      $duration2 = $mp3file->getDuration();//(slower) for VBR (or CBR)  
 
-                                                          $trackLengh = $xml->createElement('trackLengh',MP3File::formatTime($duration2));
-                                                          $trackLengh = $track->appendChild($trackLengh);
+                                                      $trackLengh = $xml->createElement('trackLengh',MP3File::formatTime($duration2));
+                                                      $trackLengh = $track->appendChild($trackLengh);
 
 
-                                                          $trackFileSize = $xml->createElement('trackFileSize',formatSizeUnits(filesize($ruta_completa2)));
-                                                          $trackFileSize = $track->appendChild($trackFileSize);
+                                                      $trackFileSize = $xml->createElement('trackFileSize',formatSizeUnits(filesize(htmlspecialchars($ruta_completa2))));//Tamaño del archivo
+                                                      $trackFileSize = $track->appendChild($trackFileSize);
 
-                                                          //echo "Ubicacion del archivo: ".$ruta_completa2."<br>";                                              
-                                                          $GLOBALS['contador']++;                                               
-                                                          $no_cancion++;    
+                                                      //echo "Ubicacion del archivo: ".$ruta_completa2."<br>";                                              
+                                                      $GLOBALS['contador']++;                                               
+                                                      $no_cancion++;    
                                                     }                                                    
                                               }//Termina else carga de archivos
                                           }

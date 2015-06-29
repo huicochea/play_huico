@@ -25,6 +25,7 @@ class MP3File
     //Read entire file, frame by frame... ie: Variable Bit Rate (VBR)
     public function getDuration($use_cbr_estimate=false)
     {
+
         $fd = fopen($this->filename, "rb");
  
         $duration=0;
@@ -164,6 +165,7 @@ class MP3File
  
     private static function framesize($layer, $bitrate,$sample_rate,$padding_bit)
     {
+        error_reporting(E_ERROR);
         if ($layer==1)
             return intval(((12 * $bitrate*1000 /$sample_rate) + $padding_bit) * 4);
         else //layer 2, 3
