@@ -27,7 +27,10 @@
 		<table width="100%" id="datos">
 		{section name=sec1 loop=$arrayAlbums}
 				<tr onmouseover="cambiacolor_over(this)" onmouseout="cambiacolor_out(this)"><td width="90%"><script>var js_load_track_{$i} = {$array_json_tracks[sec1]};</script>
-				<div class="playlist-tracks-grey1"><img align="center" src="images/icon_track.png"> <a href="javascript:load_track(js_load_track_{$i})"> {$arrayAlbums[sec1].trackTitle} </a> </td><td class="playlist-tracks-grey1">{$arrayAlbums[sec1].trackFileSize}
+				<div class="playlist-tracks-grey1"><img align="center" src="images/icon_track.png"> <a href="javascript:load_track(js_load_track_{$i})"> {$arrayAlbums[sec1].trackTitle} </a> </td>
+					<td class="playlist-tracks-grey1">
+						{$arrayAlbums[sec1].trackLengh}
+						<!-- {$arrayAlbums[sec1].trackFileSize} -->
 				</td>
 				<td><a href="javascript:add_track(js_load_track_{$i})" onclick="javascript:afficher_cacher('jp-playlist');" >
 					<img border="0" src="images/close_popin.png" title="Eliminar"></a></td><!-- Eliminar cancion-->

@@ -1,8 +1,16 @@
 <?php
+  include "class/mp3.php";
   crear(); //Creamos el archivo  
   //leer();  //Luego lo leemos
  
   //Para crear el archivo
+  //$mp3file = new MP3File("C:/AppServ/www/play_huico/trunk/application/musica/Dance dance revolution/BOYS.mp3");//http://www.npr.org/rss/podcast.php?id=510282
+  //$duration1 = $mp3file->getDurationEstimate();//(faster) for CBR only
+  //$duration2 = $mp3file->getDuration();//(slower) for VBR (or CBR)
+  //echo "duration: $duration1 seconds"."\n";
+  //echo "estimate: $duration2 seconds"."\n";
+  //echo MP3File::formatTime($duration2)."\n";
+
   function crear(){
       //set_time_limit(0);
       $ruta="musica";
@@ -84,9 +92,14 @@
 
                                                           $trackArtist = $xml->createElement('trackArtist',"Unknow");
                                                           $trackArtist = $track->appendChild($trackArtist);
+                                                          
+                                                          //Calcular el timpo de la camcion
+                                                          $mp3file = new MP3File(htmlspecialchars(utf8_encode($ruta_completa2)));
+                                                          $duration2 = $mp3file->getDuration();//(slower) for VBR (or CBR)                                                          
 
-                                                          $trackLengh = $xml->createElement('trackLengh',"2:20");
+                                                          $trackLengh = $xml->createElement('trackLengh',MP3File::formatTime($duration2));
                                                           $trackLengh = $track->appendChild($trackLengh);
+
 
                                                           $trackFileSize = $xml->createElement('trackFileSize',formatSizeUnits(filesize($ruta_completa2)));
                                                           $trackFileSize = $track->appendChild($trackFileSize);
