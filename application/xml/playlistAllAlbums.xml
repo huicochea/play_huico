@@ -1,2 +1,111 @@
 <?xml version="1.0"?>
-<albumList/>
+<albumList>
+  <album>
+    <albumID>1</albumID>
+    <albumTitle>carpeta &#xF1;i&#xF1;o</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/carpeta &#xF1;i&#xF1;o/019 DICISEIS A&#xD1;OS-JULIO IGLESIAS.mp3</trackFile>
+        <trackTitle>019 DICISEIS A&#xD1;OS-JULIO IGLESIAS.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>3.18 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>1</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+  <album>
+    <albumID>2</albumID>
+    <albumTitle>prueba ejemplo</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/prueba ejemplo/12.- ATTENTION - shark dj.mp3</trackFile>
+        <trackTitle>12.- ATTENTION - shark dj.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>6.85 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/prueba ejemplo/14.- LEONCE - pont blank.mp3</trackFile>
+        <trackTitle>14.- LEONCE - pont blank.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>5.16 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/prueba ejemplo/39.- MILOUD - shark dj.mp3</trackFile>
+        <trackTitle>39.- MILOUD - shark dj.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>5.71 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/prueba ejemplo/54.- TSUNAMI - dvbbs &amp; borgeus.mp3</trackFile>
+        <trackTitle>54.- TSUNAMI - dvbbs &amp; borgeus.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>3.90 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/prueba ejemplo/63.- COLORS - tritonal &amp; paris blohm ft.sterling fox.mp3</trackFile>
+        <trackTitle>63.- COLORS - tritonal &amp; paris blohm ft.sterling fox.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>5.92 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>6</trackID>
+        <trackFile>musica/prueba ejemplo/68.- SPRIGEN - mak j.mp3</trackFile>
+        <trackTitle>68.- SPRIGEN - mak j.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>4.06 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>7</trackID>
+        <trackFile>musica/prueba ejemplo/72.- BLURRED LINES - robin thicke ft t.i. &amp; pharrell.mp3</trackFile>
+        <trackTitle>72.- BLURRED LINES - robin thicke ft t.i. &amp; pharrell.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>10.33 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>8</trackID>
+        <trackFile>musica/prueba ejemplo/75.- ROCKIN - dubvision &amp; firebeatz.mp3</trackFile>
+        <trackTitle>75.- ROCKIN - dubvision &amp; firebeatz.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>5.01 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>9</trackID>
+        <trackFile>musica/prueba ejemplo/78.- MICHAEL JORDAN - carnage &amp; tony junior.mp3</trackFile>
+        <trackTitle>78.- MICHAEL JORDAN - carnage &amp; tony junior.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>3.95 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>10</trackID>
+        <trackFile>musica/prueba ejemplo/79.- WIZARD - martin garrix &amp; jay hardway.mp3</trackFile>
+        <trackTitle>79.- WIZARD - martin garrix &amp; jay hardway.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>2:20</trackLengh>
+        <trackFileSize>4.69 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>10</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+</albumList>

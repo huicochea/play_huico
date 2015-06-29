@@ -1,15 +1,12 @@
 <?php
-  crear(); //Creamos el archivo
-  
+  crear(); //Creamos el archivo  
   //leer();  //Luego lo leemos
  
   //Para crear el archivo
   function crear(){
-
       //set_time_limit(0);
       $ruta="musica";
       $GLOBALS ['contador']=1;
-      //set_time_limit(0);
 
       //Empesamos la estructura del archivo xml      
       $xml = new DomDocument('1.0'); 
@@ -22,7 +19,6 @@
             // Abrimos el directorio y comprobamos que
                 if ($aux = opendir($ruta))
                 {
-
                     while (($archivo = readdir($aux)) !== false)
                     {
                       // Si quisieramos mostrar todo el contenido del directorio pondrÃƒÂ­amos lo siguiente:
@@ -45,7 +41,7 @@
                                         $autor = $xml->createElement('albumID',"$GLOBALS[contador]");
                                         $autor = $libro->appendChild($autor);
 
-                                        $titulo = $xml->createElement('albumTitle',$archivo);
+                                        $titulo = $xml->createElement('albumTitle',htmlspecialchars(utf8_encode($archivo)));
                                         $titulo = $libro->appendChild($titulo);
 
                                         $anio = $xml->createElement('albumArtist','unknown');
@@ -72,17 +68,18 @@
                                               }
                                               else
                                               {
-                                                    if(substr("$$ruta_completa2", -3, 3)=="mp3"){ //El sistema solo soporta archivos con expencion mp3                       
+                                                    if(substr("$ruta_completa2", -3, 3)=="mp3"){ //El sistema solo soporta archivos con expencion mp3   
+
                                                           $track = $xml->createElement('track');
                                                           $track = $albumTracks->appendChild($track); 
 
                                                           $trackID = $xml->createElement('trackID',"$no_cancion");
                                                           $trackID = $track->appendChild($trackID);
 
-                                                          $trackFile = $xml->createElement('trackFile',"$ruta_completa2");//Ubicacion del archivo
+                                                          $trackFile = $xml->createElement('trackFile', htmlspecialchars(utf8_encode($ruta_completa2)));//Ubicacion del archivo
                                                           $trackFile = $track->appendChild($trackFile);
 
-                                                          $trackTitle = $xml->createElement('trackTitle',"$archivo2");
+                                                          $trackTitle = $xml->createElement('trackTitle', htmlspecialchars(utf8_encode($archivo2)));
                                                           $trackTitle = $track->appendChild($trackTitle);
 
                                                           $trackArtist = $xml->createElement('trackArtist',"Unknow");
@@ -123,6 +120,7 @@
                 }        
             }      
     //Creamos el archivo
+    
     $xml->formatOutput = true;
     $el_xml = $xml->saveXML();
     $xml->save('xml/playlistAllAlbums.xml');
