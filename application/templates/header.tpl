@@ -5,7 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="icon" type="image/png" href="images/favicon.ico" />
 <title>PLAY HUICO</title>
-<script src="js/jquery-1.8.2.js"></script>
+<!-- <script src="js/jquery-1.8.2.js"></script> -->
+<script src="js/jquery-2.1.4.js"></script>
 <script src="js/scriptAlbums.js"></script>
 <script src="js/scriptPlayer.js"></script>
 <script src="js/funciones.js"></script>

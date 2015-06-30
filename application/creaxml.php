@@ -1,18 +1,18 @@
 <?php
   include "class/mp3.php";
-  crear(); //Creamos el archivo  
-  //leer();  //Luego lo leemos
- 
-  //Para crear el archivo
-  //$mp3file = new MP3File("C:/AppServ/www/play_huico/trunk/application/musica/Dance dance revolution/BOYS.mp3");//http://www.npr.org/rss/podcast.php?id=510282
-  //$duration1 = $mp3file->getDurationEstimate();//(faster) for CBR only
-  //$duration2 = $mp3file->getDuration();//(slower) for VBR (or CBR)
-  //echo "duration: $duration1 seconds"."\n";
-  //echo "estimate: $duration2 seconds"."\n";
-  //echo MP3File::formatTime($duration2)."\n";
+  
+  function actualizar_lista($respuesta){
+      if($respuesta=='SI'){
+        return true;
+      }
+      else{
+        return false;
+      }
+  }
 
+  //Para crear el archivo xml con la informacion de las canciones cargadas en la carpeta /musica
   function crear(){
-      //set_time_limit(0);
+      set_time_limit(0);
       $ruta="musica";
       $GLOBALS ['contador']=1;
 

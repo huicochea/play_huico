@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 15:38:30
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-30 13:29:32
          compiled from ".\templates\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:212875589b897ef9c65-15262041%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '10e0737838b4a574ef135d0c601e7b602cfaf37a' => 
     array (
       0 => '.\\templates\\header.tpl',
-      1 => 1435610247,
+      1 => 1435688963,
       2 => 'file',
     ),
   ),
@@ -26,7 +26,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <link rel="icon" type="image/png" href="images/favicon.ico" />
 <title>PLAY HUICO</title>
-<script src="js/jquery-1.8.2.js"></script>
+<!-- <script src="js/jquery-1.8.2.js"></script> -->
+<script src="js/jquery-2.1.4.js"></script>
 <script src="js/scriptAlbums.js"></script>
 <script src="js/scriptPlayer.js"></script>
 <script src="js/funciones.js"></script>

@@ -11,37 +11,43 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '159935589dffbaa0c21-15953258',
   'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5591abe4d2f958_03151757',
+  'unifunc' => 'content_5592df6828f148_09426692',
   'has_nocache_code' => false,
   'cache_lifetime' => 120,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5591abe4d2f958_03151757')) {function content_5591abe4d2f958_03151757($_smarty_tpl) {?>	<div class="bloc" name="bloc">
+<?php if ($_valid && !is_callable('content_5592df6828f148_09426692')) {function content_5592df6828f148_09426692($_smarty_tpl) {?>	<div class="bloc" name="bloc">
 			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=1" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=1"  target="_top">Dance dance revolution</a><br />
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=1"  target="_top">Dance</a><br />
+			<span class="albumArtist">11 track(s)</span></div>
+			
+	</div>
+	<div class="bloc" name="bloc">
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=12" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=12"  target="_top">Dance dance revolution</a><br />
 			<span class="albumArtist">16 track(s)</span></div>
 			
 	</div>
 	<div class="bloc" name="bloc">
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=17" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=17"  target="_top">Oreja de Van gogh</a><br />
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=28" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=28"  target="_top">Oreja de Van gogh</a><br />
 			<span class="albumArtist">5 track(s)</span></div>
 			
 	</div>
 	<div class="bloc" name="bloc">
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=22" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=22"  target="_top">Rock nacional</a><br />
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=33" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=33"  target="_top">Rock nacional</a><br />
 			<span class="albumArtist">10 track(s)</span></div>
 			
 	</div>
 	<div class="bloc" name="bloc">
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=32" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=32"  target="_top">romanticos por siempre</a><br />
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=43" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=43"  target="_top">romanticos por siempre</a><br />
 			<span class="albumArtist">84 track(s)</span></div>
 			
 	</div>
 	<div class="bloc" name="bloc">
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=116" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
-			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=116"  target="_top">romanticos por siempre 2</a><br />
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=127" target="_top"><img class="albumcover" src="images/disco.jpg"></a></div>
+			<div class="linkAlbum"><a href="displayPlaylist.php?albumID=127"  target="_top">romanticos por siempre 2</a><br />
 			<span class="albumArtist">95 track(s)</span></div>
 			
 	</div>

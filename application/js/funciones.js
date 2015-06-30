@@ -1,6 +1,8 @@
 $(document).ready(function(){
 	
-
+	$(".elimina").on( "click", function() {
+  		alert("Hola");
+	});
 
 });
 
@@ -22,6 +24,3 @@ function doSearch() {
 		tableReg.rows[i].style.display = 'none'; } } 
 } 
 
-function elimina(obj){
-	
-}

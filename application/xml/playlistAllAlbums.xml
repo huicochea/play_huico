@@ -2,6 +2,104 @@
 <albumList>
   <album>
     <albumID>1</albumID>
+    <albumTitle>Dance</albumTitle>
+    <albumArtist>unknown</albumArtist>
+    <albumFolder>/images</albumFolder>
+    <albumTracks>
+      <track>
+        <trackID>1</trackID>
+        <trackFile>musica/Dance/07il italiano.mp3</trackFile>
+        <trackTitle>07il italiano.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:36</trackLengh>
+        <trackFileSize>4.15 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>2</trackID>
+        <trackFile>musica/Dance/10 i will survive - hermes house band.mp3</trackFile>
+        <trackTitle>10 i will survive - hermes house band.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:26</trackLengh>
+        <trackFileSize>6.14 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>3</trackID>
+        <trackFile>musica/Dance/104-whigfield-was_a_time.mp3</trackFile>
+        <trackTitle>104-whigfield-was_a_time.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:19</trackLengh>
+        <trackFileSize>4.89 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>4</trackID>
+        <trackFile>musica/Dance/57.- PLAY HARD - david guetta.mp3</trackFile>
+        <trackTitle>57.- PLAY HARD - david guetta.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:06:55</trackLengh>
+        <trackFileSize>6.76 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>5</trackID>
+        <trackFile>musica/Dance/61.- DECHORRO - deodoro.mp3</trackFile>
+        <trackTitle>61.- DECHORRO - deodoro.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:05:00</trackLengh>
+        <trackFileSize>5.34 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>6</trackID>
+        <trackFile>musica/Dance/71 la tacha - factor x.mp3</trackFile>
+        <trackTitle>71 la tacha - factor x.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:35</trackLengh>
+        <trackFileSize>4.97 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>7</trackID>
+        <trackFile>musica/Dance/80.-SELFIE - the chainsmokers.mp3</trackFile>
+        <trackTitle>80.-SELFIE - the chainsmokers.mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:04</trackLengh>
+        <trackFileSize>3.13 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>8</trackID>
+        <trackFile>musica/Dance/djuro - drop that bass (original mix)(3).mp3</trackFile>
+        <trackTitle>djuro - drop that bass (original mix)(3).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:45</trackLengh>
+        <trackFileSize>10.88 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>9</trackID>
+        <trackFile>musica/Dance/inna - in your eyes (feat yandel).mp3</trackFile>
+        <trackTitle>inna - in your eyes (feat yandel).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:15</trackLengh>
+        <trackFileSize>7.53 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>10</trackID>
+        <trackFile>musica/Dance/will sparks - ah yeah (tjr edit).mp3</trackFile>
+        <trackTitle>will sparks - ah yeah (tjr edit).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:03:39</trackLengh>
+        <trackFileSize>8.48 MB</trackFileSize>
+      </track>
+      <track>
+        <trackID>11</trackID>
+        <trackFile>musica/Dance/Will.i.am Ft. Joan Sebastian   Hey You (Club Mix).mp3</trackFile>
+        <trackTitle>Will.i.am Ft. Joan Sebastian   Hey You (Club Mix).mp3</trackTitle>
+        <trackArtist>Unknow</trackArtist>
+        <trackLengh>00:04:22</trackLengh>
+        <trackFileSize>5.99 MB</trackFileSize>
+      </track>
+    </albumTracks>
+    <albumTracksCount>11</albumTracksCount>
+    <albumCover>images/disco.jpg</albumCover>
+  </album>
+  <album>
+    <albumID>12</albumID>
     <albumTitle>Dance dance revolution</albumTitle>
     <albumArtist>unknown</albumArtist>
     <albumFolder>/images</albumFolder>
@@ -139,7 +237,7 @@
     <albumCover>images/disco.jpg</albumCover>
   </album>
   <album>
-    <albumID>17</albumID>
+    <albumID>28</albumID>
     <albumTitle>Oreja de Van gogh</albumTitle>
     <albumArtist>unknown</albumArtist>
     <albumFolder>/images</albumFolder>
@@ -189,7 +287,7 @@
     <albumCover>images/disco.jpg</albumCover>
   </album>
   <album>
-    <albumID>22</albumID>
+    <albumID>33</albumID>
     <albumTitle>Rock nacional</albumTitle>
     <albumArtist>unknown</albumArtist>
     <albumFolder>/images</albumFolder>
@@ -279,7 +377,7 @@
     <albumCover>images/disco.jpg</albumCover>
   </album>
   <album>
-    <albumID>32</albumID>
+    <albumID>43</albumID>
     <albumTitle>romanticos por siempre</albumTitle>
     <albumArtist>unknown</albumArtist>
     <albumFolder>/images</albumFolder>
@@ -961,7 +1059,7 @@
     <albumCover>images/disco.jpg</albumCover>
   </album>
   <album>
-    <albumID>116</albumID>
+    <albumID>127</albumID>
     <albumTitle>romanticos por siempre 2</albumTitle>
     <albumArtist>unknown</albumArtist>
     <albumFolder>/images</albumFolder>

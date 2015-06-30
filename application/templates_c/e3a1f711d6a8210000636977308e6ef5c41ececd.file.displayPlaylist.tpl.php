@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 15:31:05
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 16:10:16
          compiled from ".\templates\displayPlaylist.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:314275589b8ad40c644-10092585%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e3a1f711d6a8210000636977308e6ef5c41ececd' => 
     array (
       0 => '.\\templates\\displayPlaylist.tpl',
-      1 => 1435609833,
+      1 => 1435612143,
       2 => 'file',
     ),
   ),
@@ -96,7 +96,7 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['last']       = ($_sm
  -->
 				</td>
 				<td>
-					<a href="#" onclick="elimina(this)" name="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFile'];?>
+					<a href="#" class="elimina" name="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFile'];?>
 ">
 					<img border="0" src="images/close_popin.png" title="Eliminar"></a>
 				</td><!-- Eliminar cancion-->
