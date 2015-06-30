@@ -7,6 +7,7 @@
 		</div>
 		<div class="playlist-info">
 			<p class="playlist-title">{$albumTitle}</p>
+			<p class="playlist-title">Reproduciendo: <span class="playlist-title" id="playlist_song"> </span> </p>
 			<p class="playlist-author">Autor: Desconocido</p>
 			<script>var js_load = {$js_load_all_playlist};</script>
 			<a class="playlist-button-playall" href="javascript:load_playlist(js_load)" onclick="javascript:afficher('jp-playlist');">Play album</a>
@@ -18,7 +19,7 @@
 
 <div class="playlist-tracks"><!--Lista de canciones -->
 
-		<div class="playlist-tracks-title"><!--Buscador de canciones por carpeta -->
+		<div class="playlist-tracks-title"><!--Buscador de canciones en carpeta -->
 			<form> <p class="strong"> &nbsp;BUSCAR EN ESTE FOLDER: <input id='searchTerm' type='text' onkeyup='doSearch()' /> </p></form>			
 		</div>
 
@@ -26,15 +27,15 @@
 		{$i = 0}
 		<table width="100%" id="datos">
 		{section name=sec1 loop=$arrayAlbums}
-				<tr onmouseover="cambiacolor_over(this)" onmouseout="cambiacolor_out(this)"><td width="90%"><script>var js_load_track_{$i} = {$array_json_tracks[sec1]};</script>
+				<tr id="{$arrayAlbums[sec1].identificador}" onmouseover="cambiacolor_over(this)" onmouseout="cambiacolor_out(this)"><td width="90%"><script>var js_load_track_{$i} = {$array_json_tracks[sec1]};</script>
 				<div class="playlist-tracks-grey1"><img align="center" src="images/icon_track.png"> <a href="javascript:load_track(js_load_track_{$i})"> {$arrayAlbums[sec1].trackTitle} </a> </td>
 					<td class="playlist-tracks-grey1">
 						{$arrayAlbums[sec1].trackLengh}
 						<!-- {$arrayAlbums[sec1].trackFileSize} -->
 				</td>
 				<td>
-					<a href="#" class="elimina" name="{$arrayAlbums[sec1].trackFile}">
-					<img border="0" src="images/close_popin.png" title="Eliminar"></a>
+					<a class="{$arrayAlbums[sec1].identificador}" name="{$arrayAlbums[sec1].trackFile}" id="{$arrayAlbums[sec1].trackTitle}" onclick="delet_song(this)">
+					<img border="0" class="elimina" src="images/close_popin.png" title="Eliminar"></a>
 				</td><!-- Eliminar cancion-->
 				<td><a href="javascript:add_track(js_load_track_{$i})" onclick="javascript:afficher_cacher('jp-playlist');" >
 					<img border="0" src="images/add.png" title="Agregar a lista de reproduccion"></a>

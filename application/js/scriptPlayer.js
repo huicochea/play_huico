@@ -47,7 +47,7 @@ function cacher(id)
         return true;
 }
 function load_playlist(content) {
-	myPlaylist.setPlaylist(content);
+	myPlaylist.setPlaylist(content);//Carga la playlist
 	setTimeout(function(){
         myPlaylist.play(0);
     }, 1000); 
@@ -55,6 +55,8 @@ function load_playlist(content) {
 }
 
 function load_track(content) {
+	var nombre = content.title.substring(0, content.title.length-3);
+	$("#playlist_song").html(nombre);
 	myPlaylist.remove();
 	myPlaylist.add(content);
 	setTimeout(function(){

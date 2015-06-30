@@ -46,6 +46,7 @@ function getAlbumsByID($albumID) {
 				$arrayAlbums[$i]['trackTitle'] = $currentTrack->trackTitle;
 				$arrayAlbums[$i]['trackFileSize'] = $currentTrack->trackFileSize;
 				$arrayAlbums[$i]['trackLengh'] = $currentTrack->trackLengh;
+				$arrayAlbums[$i]['identificador'] = $i;
 				$i++;
 			}
 	   $i++;			

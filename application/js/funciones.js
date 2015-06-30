@@ -1,10 +1,40 @@
 $(document).ready(function(){
 	
-	$(".elimina").on( "click", function() {
-  		alert("Hola");
-	});
-
 });
+
+function delet_song(obj){
+	//console.log(obj.name);//Esta es la ruta del archivo a eliminar
+	var ruta = obj.name;
+	var nombre = obj.id.substring(0, obj.id.length-3);	
+	var idc = obj.className;
+	//console.log( nombre );//Esta es el nombre del archivo a eliminar
+	var r=confirm("Realmente deseas eliminar la cancion: "+nombre);
+	if(r){//Se elimina la cancion por ajax, si la respuesta fue existosa se remueve el elemento donde se mostraba la cancion por medio de jquery
+		$.ajax({
+			url: "ajax/elimina.php",
+			type: "post",
+			dataType: "html",
+			data:{
+		           ruta:ruta            
+		        },
+			success: function( data ) {
+		           if(data==1){
+		           		alert("Eliminada con exito!");
+		           		console.log(idc);
+		           		$("#"+idc).remove();
+		           }
+		           else{
+		           		alert("Error al eliminar!");
+		           }
+		        }
+		}).done(function() {
+			
+		});	   		
+	}
+	else{
+		//No se elimino
+	}
+}
 
 function cambiacolor_over(celda){ celda.style.backgroundColor="#ffff30" } 
 

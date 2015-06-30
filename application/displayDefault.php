@@ -1,8 +1,7 @@
 <?php
-require ("creaxml.php");	
+require ("creaxml.php");//Archivo requerido para crear el xml que contiene los datos de las carpetas y canciones
 require('libs/Smarty.class.php');
-require ('functions/getAlbumList.php');
-
+require ('functions/getAlbumList.php');//Obtenemos la lista de albunes
 ?>
 
 

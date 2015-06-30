@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-29 16:10:16
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-30 16:25:22
          compiled from ".\templates\displayPlaylist.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:314275589b8ad40c644-10092585%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'e3a1f711d6a8210000636977308e6ef5c41ececd' => 
     array (
       0 => '.\\templates\\displayPlaylist.tpl',
-      1 => 1435612143,
+      1 => 1435699510,
       2 => 'file',
     ),
   ),
@@ -40,6 +40,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="playlist-info">
 			<p class="playlist-title"><?php echo $_smarty_tpl->tpl_vars['albumTitle']->value;?>
 </p>
+			<p class="playlist-title">Reproduciendo: <span class="playlist-title" id="playlist_song"> </span> </p>
 			<p class="playlist-author">Autor: Desconocido</p>
 			<script>var js_load = <?php echo $_smarty_tpl->tpl_vars['js_load_all_playlist']->value;?>
 ;</script>
@@ -52,7 +53,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 <div class="playlist-tracks"><!--Lista de canciones -->
 
-		<div class="playlist-tracks-title"><!--Buscador de canciones por carpeta -->
+		<div class="playlist-tracks-title"><!--Buscador de canciones en carpeta -->
 			<form> <p class="strong"> &nbsp;BUSCAR EN ESTE FOLDER: <input id='searchTerm' type='text' onkeyup='doSearch()' /> </p></form>			
 		</div>
 
@@ -83,7 +84,8 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['index_next'] = $_sma
 $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['first']      = ($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['iteration'] == 1);
 $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['last']       = ($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['iteration'] == $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['total']);
 ?>
-				<tr onmouseover="cambiacolor_over(this)" onmouseout="cambiacolor_out(this)"><td width="90%"><script>var js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
+				<tr id="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['identificador'];?>
+" onmouseover="cambiacolor_over(this)" onmouseout="cambiacolor_out(this)"><td width="90%"><script>var js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
  = <?php echo $_smarty_tpl->tpl_vars['array_json_tracks']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']];?>
 ;</script>
 				<div class="playlist-tracks-grey1"><img align="center" src="images/icon_track.png"> <a href="javascript:load_track(js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
@@ -96,9 +98,11 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['last']       = ($_sm
  -->
 				</td>
 				<td>
-					<a href="#" class="elimina" name="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFile'];?>
-">
-					<img border="0" src="images/close_popin.png" title="Eliminar"></a>
+					<a class="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['identificador'];?>
+" name="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackFile'];?>
+" id="<?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['trackTitle'];?>
+" onclick="delet_song(this)">
+					<img border="0" class="elimina" src="images/close_popin.png" title="Eliminar"></a>
 				</td><!-- Eliminar cancion-->
 				<td><a href="javascript:add_track(js_load_track_<?php echo $_smarty_tpl->tpl_vars['i']->value;?>
 )" onclick="javascript:afficher_cacher('jp-playlist');" >

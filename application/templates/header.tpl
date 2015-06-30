@@ -11,26 +11,33 @@
 <script src="js/scriptPlayer.js"></script>
 <script src="js/funciones.js"></script>
 <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+
 <script type="text/javascript" src="js/jplayer.playlist.min.js"></script>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+
 <link href="css/jplayer.css" rel="stylesheet" type="text/css" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 <link rel="apple-touch-icon" href="images/icon_iphone.png" />
 </head>
 <body>
 <div id="header">
-	<div id="fondHeader">
-		<div id="player">{include file="jplayer.tpl"}</div>
-		<div id="logo">
-			<center><div class="linkAlbum" ><a href="displayAlbums.php" onclick="javascript:cacher('jp-playlist');">
-				<img border="0" src="images/logo.png"></a>			</center></div></div>
-		<div id="search">
-			<div id="search-form">
-				<form method="post" action="displaySearchResults.php">
-				<input class="search-textfield" type="text" name="keywordsSearched" id="keywordsSearched" placeholder="BUSCAR FOLDER"/>
-				<button class="search-button">&nbsp;</button></div>
-			</div>
-			</form>		
-		</div>
-		
-	</div>
+   <div id="fondHeader">
+      <div id="player">{include file="jplayer.tpl"}</div>
+      <div id="logo">
+         <center>
+            <div class="linkAlbum" ><a href="displayAlbums.php" onclick="javascript:cacher('jp-playlist');">
+               <img border="0" src="images/logo.png"></a>			
+         </center>
+         </div>
+      </div>
+      <div id="search">
+         <div id="search-form">
+            <form method="post" action="displaySearchResults.php">
+               <input class="search-textfield" type="text" name="keywordsSearched" id="keywordsSearched" placeholder="BUSCAR FOLDER"/>
+               <button class="search-button">&nbsp;</button>
+         </div>
+      </div>
+      </form>		
+   </div>
+</div>
 </div>

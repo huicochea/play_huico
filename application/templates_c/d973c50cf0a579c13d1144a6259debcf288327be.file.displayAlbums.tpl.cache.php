@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-23 17:38:51
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-30 15:59:03
          compiled from ".\templates\displayAlbums.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:159935589dffbaa0c21-15953258%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd973c50cf0a579c13d1144a6259debcf288327be' => 
     array (
       0 => '.\\templates\\displayAlbums.tpl',
-      1 => 1367840374,
+      1 => 1435695934,
       2 => 'file',
     ),
   ),
@@ -15,13 +15,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.12',
+  'unifunc' => 'content_5589dffbdfece7_86746829',
   'variables' => 
   array (
     'arrayAlbums' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.12',
-  'unifunc' => 'content_5589dffbdfece7_86746829',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5589dffbdfece7_86746829')) {function content_5589dffbdfece7_86746829($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_truncate')) include 'C:\\AppServ\\www\\play_huico\\trunk\\application\\libs\\plugins\\modifier.truncate.php';
 ?><?php if (isset($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1'])) unset($_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']);
@@ -56,7 +56,6 @@ $_smarty_tpl->tpl_vars['smarty']->value['section']['sec1']['last']       = ($_sm
 "  target="_top"><?php echo smarty_modifier_truncate($_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['title'],40);?>
 </a><br />
 			<span class="albumArtist"><?php echo $_smarty_tpl->tpl_vars['arrayAlbums']->value[$_smarty_tpl->getVariable('smarty')->value['section']['sec1']['index']]['tracksCount'];?>
- track(s)</span></div>
-			
+ track(s)</span></div>			
 	</div>
 <?php endfor; endif; ?><?php }} ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.12, created on 2015-06-30 13:29:32
+<?php /* Smarty version Smarty-3.1.12, created on 2015-06-30 15:18:57
          compiled from ".\templates\header.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:212875589b897ef9c65-15262041%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '10e0737838b4a574ef135d0c601e7b602cfaf37a' => 
     array (
       0 => '.\\templates\\header.tpl',
-      1 => 1435688963,
+      1 => 1435695525,
       2 => 'file',
     ),
   ),
@@ -32,28 +32,35 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <script src="js/scriptPlayer.js"></script>
 <script src="js/funciones.js"></script>
 <script type="text/javascript" src="js/jquery.jplayer.min.js"></script>
+
 <script type="text/javascript" src="js/jplayer.playlist.min.js"></script>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+
 <link href="css/jplayer.css" rel="stylesheet" type="text/css" />
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 <link rel="apple-touch-icon" href="images/icon_iphone.png" />
 </head>
 <body>
 <div id="header">
-	<div id="fondHeader">
-		<div id="player"><?php echo $_smarty_tpl->getSubTemplate ("jplayer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
+   <div id="fondHeader">
+      <div id="player"><?php echo $_smarty_tpl->getSubTemplate ("jplayer.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 </div>
-		<div id="logo">
-			<center><div class="linkAlbum" ><a href="displayAlbums.php" onclick="javascript:cacher('jp-playlist');">
-				<img border="0" src="images/logo.png"></a>			</center></div></div>
-		<div id="search">
-			<div id="search-form">
-				<form method="post" action="displaySearchResults.php">
-				<input class="search-textfield" type="text" name="keywordsSearched" id="keywordsSearched" placeholder="BUSCAR FOLDER"/>
-				<button class="search-button">&nbsp;</button></div>
-			</div>
-			</form>		
-		</div>
-		
-	</div>
+      <div id="logo">
+         <center>
+            <div class="linkAlbum" ><a href="displayAlbums.php" onclick="javascript:cacher('jp-playlist');">
+               <img border="0" src="images/logo.png"></a>			
+         </center>
+         </div>
+      </div>
+      <div id="search">
+         <div id="search-form">
+            <form method="post" action="displaySearchResults.php">
+               <input class="search-textfield" type="text" name="keywordsSearched" id="keywordsSearched" placeholder="BUSCAR FOLDER"/>
+               <button class="search-button">&nbsp;</button>
+         </div>
+      </div>
+      </form>		
+   </div>
+</div>
 </div>
 <?php }} ?>
